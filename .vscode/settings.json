@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "android": true,
+    "assets": true,
+    "build": true,
+    "ios": true,
+    ".vscode": true,
+    ".idea": true,
+    ".dart_tool": true,
+    "web": true,
+    ".flutter-plugins": true,
+    ".flutter-plugins-dependencies": true,
+    ".gitignore": true,
+    ".metadata": true,
+    ".packages": true,
+    "flutter_01.log": true,
+    "kamelfoodapp.iml": true,
+    "pubspec.lock": true,
+    "README.md": true
+  }
+}
